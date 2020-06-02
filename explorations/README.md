@@ -28,6 +28,4 @@ Here you can take a look at all my exercise notebooks made throughout the nanode
   
  ### 5. Capstone Project
  
-  - Work around the world: a simple and unified dataset with jobs from major tech jobs lists
-    - [Click here to check out the data sources exploration notebook](https://github.com/gabfr/data-engineering-nanodegree/tree/master/5-capstone-project)
-    - [Click here to check out the implementation](https://github.com/gabfr/work-around-the-world)
+  - In progress
